@@ -1,4 +1,4 @@
-## MULTIFORM
+# MULTIFORM
 
 Dynamic form with steps and checks
 
@@ -6,9 +6,6 @@ This project was created with ReactJS with Typescript
 
 [See Project working](https://multiform.dcdev.site)
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
