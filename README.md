@@ -1,6 +1,6 @@
 # MULTIFORM
 
-Dynamic form with steps and checks
+Dynamic form with steps and validation
 
 This project was created with ReactJS with Typescript
 
